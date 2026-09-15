@@ -21,40 +21,40 @@
 * [x] [[Go Introduction]]
 * [x] [[Hello World]]
 * [ ] [[Go Packages]]
-* [ ] [[Variables]]
-* [ ] [[Constants]]
-* [ ] [[Data Types]]
+* [x] [[Variables]]
+* [x] [[Constants]]
+* [x] [[Data Types]]
 * [ ] [[Type Conversion]]
-* [ ] [[Operators]]
+* [x] [[Operators]]
 * [ ] [[Input and Output]]
 
 ---
 
 ### 02 — Control Flow
 
-* [ ] [[if-else]]
-* [ ] [[switch]]
-* [ ] [[for Loop]]
-* [ ] [[break and continue]]
+* [x] [[if-else]]
+* [x] [[switch]]
+* [x] [[for Loop]]
+* [x] [[break and continue]]
 * [ ] [[defer]]
 
 ---
 
 ### 03 — Data Structures
 
-* [ ] [[Arrays]]
-* [ ] [[Slices]]
-* [ ] [[Maps]]
+* [x] [[Arrays]]
+* [x] [[Slices]]
+* [x] [[Maps]]
 * [ ] [[Structs]]
 
 ---
 
 ### 04 — Functions
 
-* [ ] [[Functions]]
-* [ ] [[Multiple Return Values]]
-* [ ] [[Variadic Functions]]
-* [ ] [[Anonymous Functions]]
+* [x] [[Functions]]
+* [x] [[Multiple Return Values]]
+* [x] [[Variadic Functions]]
+* [x] [[Anonymous Functions]]
 * [ ] [[Closures]]
 
 ---
